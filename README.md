@@ -10,4 +10,4 @@ Login credentials (also in /Privacy section):
 
 **User:** student ; **Password:** Abcd1234+  
 
-admin and password deleted from appsettings
+Azuredb credentials deleted from appsettings
