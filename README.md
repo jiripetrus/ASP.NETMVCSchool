@@ -1,5 +1,5 @@
 # ASP.NETMVCSchool
-MVC application with database hosted on Azure where one is able to perform basic CRUD operations.  
+MVC application with a database hosted on Azure where one is able to perform basic CRUD operations.  
 
 https://aspschoolapp.azurewebsites.net/  
 
